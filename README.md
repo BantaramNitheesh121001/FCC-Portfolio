@@ -7,18 +7,23 @@ The farmer can get registered and log into the application user type as a farm i
 * Unable to create the google oauth so went back to traditional login in process.
 * Faced problem in creating JWT tokens for authentication
 * Faced problem in storing the image data into the database
+
 ## Technologies:
 ### Frontend:
 * React JS
+
 ### Backend:
 * Node JS 
 * Express 
 * Mongo DB
+
 ### Testing Tools:
 * JEST
+
 ### Code Versioning System:
 * GIT 
 * GitHub
+
 ## Sprints:
 ### Sprint 1:
 During Sprint 1, 
@@ -30,11 +35,13 @@ During Sprint 2,
 * The whole team was divided into two teams to handle customer and farmer side tasks. 
 * I have worked on designing the screens and database with my team. 
 * With team designed models for the application and then I have worked on authentication.
+
 ### Sprint 3:
 During Sprint 3, 
 * worked on authentication 
 * worked on creating JWT tokens
 * worked on JEST for testing the authentication.
+
 ### Sprint 4:
 During Sprint 4,
 * Designed the backend for adding products into farmers page
