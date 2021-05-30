@@ -9,13 +9,16 @@ The farmer can get registered and log into the application user type as a farm i
 - Faced problem in storing the image data into the database
 ## Technologies:
 ### Frontend:
-React JS
+- React JS
 ### Backend:
-Node JS, Express, Mongo DB
+- Node JS 
+- Express 
+- Mongo DB
 ### Testing Tools:
-JEST
+- JEST
 ### Code Versioning System:
-GIT and GitHub
+- GIT 
+- GitHub
 ## Sprints:
 ### Sprint 1:
 During Sprint 1, 
