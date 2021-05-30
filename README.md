@@ -1,4 +1,4 @@
-# Farmer Customer COnnection
+# Farmer Customer Connection
 ## Description:
 The farmer can get registered and log into the application user type as a farm in this project. He can add details of the products that he had into the application with the price that he is expecting. He can also add the areas that he can deliver the products. The farmer will get the orders from the customer and he can either accept the order or cancel the order. 
 	On the other hand, customers can also get registered and log into the application user-type as the customer. The customers can add the products they are interested in into the cart and place an order. The customer is provided with an address option while ordering. If the customer is ok with the registration address he can use it else he can change the address where he needs the delivery to be placed.
