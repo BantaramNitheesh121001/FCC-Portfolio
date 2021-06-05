@@ -10,13 +10,13 @@ On the other hand, The customers can add the products that they are interested i
 Both farmer and customer should get registerd with respect to their user type and then log into using the fetures of this application.
 	
 ## Problems Faced:
-* Creating google oauth for sign up and login the farmer and customers into the application
-* Unable to create the google oauth so went back to traditional login in process.
-* Faced problem in creating JWT tokens for authentication
-* Faced problem in storing the image data into the database
+* Creating google OAuth for sign up and login the farmer and customers into the application
+* Unable to create the google OAuth so went back to traditional login process.
+* Faced some problem in creating JWT tokens for authentication
+* Faced some problem in storing the image data into the database
 * Integrating the farmer and customer site was a huge task
 * It was not that easy to integrate them
-* We checked all the common components libraries used in backend to combine them
+* We checked all the common components libraries used in the backend to combine them
 
 ## Technologies:
 ### Frontend:
