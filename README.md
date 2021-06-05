@@ -14,6 +14,9 @@ Both farmer and customer should get registerd with respect to their user type an
 * Unable to create the google oauth so went back to traditional login in process.
 * Faced problem in creating JWT tokens for authentication
 * Faced problem in storing the image data into the database
+* Integrating the farmer and customer site was a huge task
+* It was not that easy to integrate them
+* We checked all the common components libraries used in backend to combine them
 
 ## Technologies:
 ### Frontend:
@@ -59,3 +62,11 @@ Learnings and problems faced,
 * Designed edit feature so that farmer can edit the product details like price, quantity and date that were uploaded
 * Designed delete feature so that farmer can delete the unwanted products
 * Worked on CSS in add products page
+
+### During Sprint 5:
+Learnings and problems faced,
+* Worked on unit and integration testing
+* Tried to integrate the farmer and customer tasks
+* Faced a lot of difficulties in integrating farmer and customer tasks components
+* Tried to check the common components between farmer and customer
+* Tried to check the common liberaries used in farmer and customer in the backend
