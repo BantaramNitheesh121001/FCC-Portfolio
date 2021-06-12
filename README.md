@@ -70,3 +70,11 @@ Learnings and problems faced,
 * Faced a lot of difficulties in integrating farmer and customer tasks components
 * Tried to check the common components between farmer and customer
 * Tried to check the common liberaries used in farmer and customer in the backend
+
+### During Sprint 6:
+Learning and problems faced,
+* Worked on search page and integration
+* Faced some issue in printing only specified farmers detials
+* By checking email we resolved the problem
+* We worked on search bar and added CSS to the page
+* We are still facing issue with signout from other pages
