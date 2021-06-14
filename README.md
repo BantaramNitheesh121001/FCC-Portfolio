@@ -3,11 +3,11 @@
 The project’s main objective is to design an e-commerce platform where customers can directly purchase products from farmers.
 
 ## Description:
-The farmer can the add details of the products that he had into the application with the quantity and price he is expecting. He can also add the areas he can give service. The farmer will get the orders from the customer and he can either accept the order or cancel the order. 
+The farmer can the add details of the products that he has into the application, with the quantity and price he is expecting. He can also add the areas where he can give service. The farmer will get the orders from the customer, and he can either accept the order or cancel the order. 
 	
-On the other hand, The customers can add the products that they are interested in into the cart and place an order. The customer is provided with an address option while ordering. If the customer is ok with the registration address he can use it else he can change the address where he needs the delivery to be placed.
+On the other hand, The customers can add the products that they are interested in into the cart and place an order. The customer is provided with an address option while ordering. If the customer is ok with the registering address he can use it, else he can change the address where he needs the delivery.
 
-Both farmer and customer should get registerd with respect to their user type and then log into using the fetures of this application.
+Both farmer and customer should get registered with respect to their user type, and then log in using the features of this application.
 	
 ## Problems Faced:
 * Creating google OAuth for sign up and login the farmer and customers into the application
