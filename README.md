@@ -78,3 +78,10 @@ Learning and problems faced,
 * By checking email we resolved the problem
 * We worked on search bar and added CSS to the page
 * We are still facing issue with signout from other pages
+
+### During Sprint 7:
+Learning and problems faced,
+* Worked on integrating the profile page.
+* The backend integration was done perfectly but their were few bugs in front end integration
+* Tried to resolve the bugs in the front end
+* Added CSS details for editing the front end
