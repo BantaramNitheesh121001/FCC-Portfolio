@@ -1,4 +1,4 @@
-# Farmer Customer Connection
+# Farmer Customer Connect
 ## About the Project:
 The project’s main objective is to design an e-commerce platform where customers can directly purchase products from farmers.
 
